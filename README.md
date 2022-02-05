@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m Angelo
 - 🔭 I’m currently stuying Computer Science!
-- 🌱 I’m currently learning Python - C/C++ - Kotlin/java  / other on my wanna-learn list: Rust - Ruby - C#
+- 🌱 I’m learning Python - C/C++ - Kotlin/java  / other on my wanna-learn list: Rust - Ruby - C#
 - 👯 I’m looking to collaborate on Software Dev - Data science projects
 - 💬 Ask me about anything related to computer science, I love talking about its history, starting from the mid 1830's with Charles Babbage and the mechanical computer to Ada lovelace, Alan Turing and so on ... 
 - 📫 How to reach me: angeloboustany5@gmail.com / @angelo_boustany
