@@ -1,9 +1,3 @@
-<!--
-**angeloboustany/angeloboustany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
 - 👋 Hi, I’m Angelo
 - 🔭 I’m currently studying Computer Science!
 - 🌱 I’m learning Python - C/C++ - Kotlin/java - AMD64 asm lang / other on my wanna-learn list: Rust - Ruby - C#
@@ -14,8 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: angelo@boustany.tech / @angelo_boustany
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I read web pages from the bottom up :)
-
-
-<!--
-- 🤔 I’m looking for help with ...
--->
