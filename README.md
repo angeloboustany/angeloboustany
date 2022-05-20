@@ -8,3 +8,5 @@
 - 📫 How to reach me: angelo@boustany.tech / @angelo_boustany
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I read web pages from the bottom up :)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeloboustany)](https://github.com/anuraghazra/github-readme-stats)
